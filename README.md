@@ -1,3 +1,3 @@
 - I've installed Cursor with Claude Code and Codex extensions installed
 - I've completed all the steps
-- I'm basically new to AI work, so I still need time to learn by watching Youtube and trying some of the features by my self
+- I'm basically new to AI work, so I still need time to learn by watching Youtube and trying some of the features by my self. There's still so much things I haven't figured out and understand yet
